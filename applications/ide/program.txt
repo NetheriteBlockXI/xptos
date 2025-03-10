@@ -1,5 +1,5 @@
 ide:
 CODE_URL = "https://raw.githubusercontent.com/NetheriteBlockXI/xpsos/main/applications/ide/ide"
 PATH = "#:/Applications/ide/ide.osr"
-VERSION_PATH = "#:/Applictions/ide/version.txt
+VERSION_PATH = "#:/Applictions/ide/version.txt"
 LATEST_VERSION = "https://raw.githubusercontent.com/NetheriteBlockXI/xpsos/main/applications/ide/version.txt"
