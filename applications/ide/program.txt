@@ -1,0 +1,3 @@
+ide:
+IDE_CODE_URL = "https://raw.githubusercontent.com/NetheriteBlockXI/xpsos/main/applications/ide/ide"
+IDE_PATH = "#:/Applications/ide.osr"
